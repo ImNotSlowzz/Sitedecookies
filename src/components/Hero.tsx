@@ -164,7 +164,7 @@ export function Hero() {
             {/* Glow */}
             <div className="absolute inset-0 rounded-full bg-honey/30 blur-3xl scale-110" />
             <img
-              src="https://images.pexels.com/photos/14571330/pexels-photo-14571330.jpeg?auto=compress&cs=tinysrgb&w=900&h=900&fit=crop"
+              src="/images/cookies.jpg"
               alt="Cookie recheado gourmet"
               className="relative w-full h-full object-cover rounded-full shadow-2xl shadow-brown-dark/30"
               loading="eager"

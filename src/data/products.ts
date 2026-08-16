@@ -15,7 +15,7 @@ export const products: Product[] = [
     emoji: '🍫',
     description: 'Cookie recheado com Nutella. O clássico que nunca falha.',
     price: 13,
-    image: 'https://images.pexels.com/photos/14571330/pexels-photo-14571330.jpeg?auto=compress&cs=tinysrgb&w=900&h=900&fit=crop',
+    image: '/images/nutella.jpg',
     accentColor: '#5b3a1f',
   },
   {
@@ -24,7 +24,7 @@ export const products: Product[] = [
     emoji: '🍫',
     description: 'Cookie recheado com Kinder. Surpresa cremosa em cada mordida.',
     price: 15,
-    image: 'https://images.pexels.com/photos/8498186/pexels-photo-8498186.jpeg?auto=compress&cs=tinysrgb&w=900&h=900&fit=crop',
+    image: '/images/kinder.jpg',
     accentColor: '#e07b3a',
   },
   {
@@ -33,7 +33,7 @@ export const products: Product[] = [
     emoji: '💚',
     description: 'Cookie de pistache com recheio cremoso. Sofisticado e viciante.',
     price: 12,
-    image: 'https://images.pexels.com/photos/8963942/pexels-photo-8963942.jpeg?auto=compress&cs=tinysrgb&w=900&h=900&fit=crop',
+    image: '/images/pistache.jpg',
     accentColor: '#7fa650',
   },
 ];
